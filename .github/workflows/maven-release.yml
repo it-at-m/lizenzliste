@@ -13,11 +13,10 @@ on:
         default: 0.0.2-SNAPSHOT
       app-path:
         type: choice
-        description: Service-Name
+        description: LizenzListe
         required: true
         options:
-          - refarch-backend
-          - refarch-eai
+          - lizenzliste-backend
 
 jobs:
   release-maven:
