@@ -25,29 +25,26 @@
 [made-with-love-shield]: https://img.shields.io/badge/made%20with%20%E2%9D%A4%20by-it%40M-yellow?style=for-the-badge
 [license-shield]: https://img.shields.io/github/license/it-at-m/refarch-templates?style=for-the-badge
 
-# RefArch Templates
+# Lizenzliste
 
 [![Documentation][documentation-shield]][documentation]
 [![New issue][new-issue-shield]][new-issue]
 [![Made with love by it@M][made-with-love-shield]][itm-opensource]
 [![GitHub license][license-shield]][license]
 
-This project acts as a template and provides starter files for web application projects based on the RefArch (reference architecture) of it@M.
+This project is a utility app to generate lists of people which are assigned a specific software license  
+
+This project is generated from the refarch-template
 
 To learn more about the architecture itself, checkout its [documentation][refarch-documentation] or [code][refarch-code].
 
-The templates are based on [Spring][spring-documentation] and [Vue.js][vuejs-documentation].
-
 ## Usage
 
-To get set up and learn more about the templates, please check out the [Getting Started][getting-started-documentation] page.
-Also check the respective pages with suggestions on how to [develop][develop-documentation], [document][document-documentation] and [organize][organize-documentation] your project.
+TODO 
 
 ## Roadmap
 
 See the [open issues][open-issues] for a full list of proposed features (and known issues).
-To get a better overview on what's currently being worked on, check out our [project board][project-board].
-We often also plan our issues in [milestones][milestones].
 
 ## Contributing
 
